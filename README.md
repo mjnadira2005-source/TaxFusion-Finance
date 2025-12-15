@@ -1,2 +1,2 @@
 # TaxFusion-Finance
-This is my first university project and git repository
+This is my first university team project and git repository
